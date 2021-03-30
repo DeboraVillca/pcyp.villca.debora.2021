@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\GitHub\my-first-solution\ConsoleApplication1\clase1.ejercicio1.figuras\bin\Debug\clase1.ejercicio1.figuras.exe.config
+C:\Users\Daniel\Documents\GitHub\my-first-solution\ConsoleApplication1\clase1.ejercicio1.figuras\bin\Debug\clase1.ejercicio1.figuras.exe
+C:\Users\Daniel\Documents\GitHub\my-first-solution\ConsoleApplication1\clase1.ejercicio1.figuras\bin\Debug\clase1.ejercicio1.figuras.pdb
+C:\Users\Daniel\Documents\GitHub\my-first-solution\ConsoleApplication1\clase1.ejercicio1.figuras\obj\Debug\clase1.ejercicio1.figuras.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\GitHub\my-first-solution\ConsoleApplication1\clase1.ejercicio1.figuras\obj\Debug\clase1.ejercicio1.figuras.exe
+C:\Users\Daniel\Documents\GitHub\my-first-solution\ConsoleApplication1\clase1.ejercicio1.figuras\obj\Debug\clase1.ejercicio1.figuras.pdb

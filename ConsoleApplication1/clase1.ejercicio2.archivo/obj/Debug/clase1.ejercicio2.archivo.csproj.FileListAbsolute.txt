@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\GitHub\my-first-solution\ConsoleApplication1\clase1.ejercicio2.archivo\bin\Debug\clase1.ejercicio2.archivo.exe.config
+C:\Users\Daniel\Documents\GitHub\my-first-solution\ConsoleApplication1\clase1.ejercicio2.archivo\bin\Debug\clase1.ejercicio2.archivo.exe
+C:\Users\Daniel\Documents\GitHub\my-first-solution\ConsoleApplication1\clase1.ejercicio2.archivo\bin\Debug\clase1.ejercicio2.archivo.pdb
+C:\Users\Daniel\Documents\GitHub\my-first-solution\ConsoleApplication1\clase1.ejercicio2.archivo\obj\Debug\clase1.ejercicio2.archivo.exe
+C:\Users\Daniel\Documents\GitHub\my-first-solution\ConsoleApplication1\clase1.ejercicio2.archivo\obj\Debug\clase1.ejercicio2.archivo.pdb
