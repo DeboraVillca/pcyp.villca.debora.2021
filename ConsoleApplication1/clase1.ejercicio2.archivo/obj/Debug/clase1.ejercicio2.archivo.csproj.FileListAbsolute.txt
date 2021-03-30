@@ -3,3 +3,9 @@ C:\Users\Daniel\Documents\GitHub\my-first-solution\ConsoleApplication1\clase1.ej
 C:\Users\Daniel\Documents\GitHub\my-first-solution\ConsoleApplication1\clase1.ejercicio2.archivo\bin\Debug\clase1.ejercicio2.archivo.pdb
 C:\Users\Daniel\Documents\GitHub\my-first-solution\ConsoleApplication1\clase1.ejercicio2.archivo\obj\Debug\clase1.ejercicio2.archivo.exe
 C:\Users\Daniel\Documents\GitHub\my-first-solution\ConsoleApplication1\clase1.ejercicio2.archivo\obj\Debug\clase1.ejercicio2.archivo.pdb
+C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\clase1.ejercicio2.archivo\bin\Debug\clase1.ejercicio2.archivo.exe.config
+C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\clase1.ejercicio2.archivo\obj\Debug\clase1.ejercicio2.archivo.exe
+C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\clase1.ejercicio2.archivo\obj\Debug\clase1.ejercicio2.archivo.pdb
+C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\clase1.ejercicio2.archivo\bin\Debug\clase1.ejercicio2.archivo.exe
+C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\clase1.ejercicio2.archivo\bin\Debug\clase1.ejercicio2.archivo.pdb
+C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\clase1.ejercicio2.archivo\obj\Debug\clase1.ejercicio2.archivo.csprojResolveAssemblyReference.cache
