@@ -1,2 +1,0 @@
-C:\Users\Daniel\Documents\GitHub\my-first-solution\ConsoleApplication1\ConsoleApplication1\obj\Debug\cuadrado.csprojResolveAssemblyReference.cache
-C:\Users\Daniel\Documents\GitHub\my-first-solution\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
