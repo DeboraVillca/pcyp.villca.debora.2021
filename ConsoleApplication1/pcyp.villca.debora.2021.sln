@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase1.ejercicio1.figuras",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase1.ejercicio2.archivo", "clase1.ejercicio2.archivo\clase1.ejercicio2.archivo.csproj", "{E52EF536-3923-47D1-83ED-49C9312E8A84}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase3.ejercicios", "Clase3.ejercicios", "{60B10418-AD8B-47E3-B77D-76F486E348D4}"
+	ProjectSection(SolutionItems) = preProject
+		Clase3.ejercicio1.collections.cs = Clase3.ejercicio1.collections.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
