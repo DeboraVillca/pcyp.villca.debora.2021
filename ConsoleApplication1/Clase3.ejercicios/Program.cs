@@ -41,7 +41,9 @@ namespace clase3.ejercicios1.diccionario
 
             if (values.ContainsKey("Mariana")==true) {
                 values.Remove("54787451");
+                
             }
+          
             Console.WriteLine("Press key for continue...");
             Console.ReadLine();
 
