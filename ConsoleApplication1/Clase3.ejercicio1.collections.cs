@@ -8,6 +8,7 @@ public class Class1
 {
 	public Class1()
 	{
-
-	}
+        Console.Write("Hello world");
+        Console.WriteLine("Press a key to finish.. ");
+    }
 }

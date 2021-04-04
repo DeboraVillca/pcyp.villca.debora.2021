@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\Clase3.ejercicios\bin\Debug\Clase3.ejercicios.exe.config
+C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\Clase3.ejercicios\bin\Debug\Clase3.ejercicios.exe
+C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\Clase3.ejercicios\bin\Debug\Clase3.ejercicios.pdb
+C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\Clase3.ejercicios\obj\Debug\clase3.ejercicios.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\Clase3.ejercicios\obj\Debug\Clase3.ejercicios.exe
+C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\Clase3.ejercicios\obj\Debug\Clase3.ejercicios.pdb
