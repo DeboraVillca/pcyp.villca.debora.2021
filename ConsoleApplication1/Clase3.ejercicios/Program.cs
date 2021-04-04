@@ -40,8 +40,7 @@ namespace clase3.ejercicios1.diccionario
             //ejercicio d 
 
             if (values.ContainsKey("Mariana")==true) {
-                values.Remove("Mariana");
-                values.Add("58251425");
+                values.Remove("54787451");
             }
             Console.WriteLine("Press key for continue...");
             Console.ReadLine();
