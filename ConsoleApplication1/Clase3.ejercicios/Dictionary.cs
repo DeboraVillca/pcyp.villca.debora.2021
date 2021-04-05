@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace clase3.ejercicios1.diccionario
 {
-    class Program
+    class Dictionary
+
     {
         static void Main(string[] args)
         {
@@ -35,15 +36,15 @@ namespace clase3.ejercicios1.diccionario
             foreach (var p in values)
             {
                 Console.WriteLine(p.Key+", "+p.Value);
-            }
+            } 
 
             //ejercicio d 
 
             if (values.ContainsKey("Mariana")==true) {
                 values.Remove("54787451");
-                
+                //sin terminar 
             }
-          
+         
             Console.WriteLine("Press key for continue...");
             Console.ReadLine();
 

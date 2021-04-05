@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\List\bin\Debug\List.exe.config
+C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\List\bin\Debug\List.exe
+C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\List\bin\Debug\List.pdb
+C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\List\obj\Debug\List.exe
+C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\List\obj\Debug\List.pdb
