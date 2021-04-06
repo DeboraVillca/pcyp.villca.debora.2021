@@ -17,7 +17,7 @@ namespace Clase3.Palabras
             string[] words = texto.Split();
             int[] nro_repeticion_palabra = new int[words.Length];
             Dictionary<string,int> values = new Dictionary<string, int>();
-
+            /// falta implementacion de diccionario
 
             for (int i = 0; i < words.Length; i++){
               for (int j = 0; j < words.Length; j++){
@@ -26,6 +26,7 @@ namespace Clase3.Palabras
                      }
                 }
             Console.WriteLine(words[i] + " "+nro_repeticion_palabra[i]);
+
             }
             Console.ReadLine();
         }
