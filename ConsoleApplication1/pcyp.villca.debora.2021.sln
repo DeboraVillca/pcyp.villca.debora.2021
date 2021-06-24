@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase3.list", "List\clase3.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase3.Palabras", "Clase3.Palabras\Clase3.Palabras.csproj", "{359302C4-950D-48D3-9F7D-C42EF8B69DA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase5.multiplicacion.matrices", "clase5.multiplicacion.matrices\clase5.multiplicacion.matrices.csproj", "{7E013C3F-4E48-470C-8C14-626F7438F655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abecedario", "Abecedario\Abecedario.csproj", "{DF0360EB-01F4-46EB-BBDD-33D1F85A8BA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{359302C4-950D-48D3-9F7D-C42EF8B69DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{359302C4-950D-48D3-9F7D-C42EF8B69DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{359302C4-950D-48D3-9F7D-C42EF8B69DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E013C3F-4E48-470C-8C14-626F7438F655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E013C3F-4E48-470C-8C14-626F7438F655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E013C3F-4E48-470C-8C14-626F7438F655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E013C3F-4E48-470C-8C14-626F7438F655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF0360EB-01F4-46EB-BBDD-33D1F85A8BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0360EB-01F4-46EB-BBDD-33D1F85A8BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0360EB-01F4-46EB-BBDD-33D1F85A8BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0360EB-01F4-46EB-BBDD-33D1F85A8BA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

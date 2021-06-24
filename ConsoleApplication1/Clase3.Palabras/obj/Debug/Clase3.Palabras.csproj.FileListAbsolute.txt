@@ -7,3 +7,6 @@ C:\Users\Daniel\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\Cla
 C:\Users\Temporal2\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\Clase3.Palabras\bin\Debug\Clase3.Palabras.exe.config
 C:\Users\Temporal2\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\Clase3.Palabras\obj\Debug\Clase3.Palabras.exe
 C:\Users\Temporal2\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\Clase3.Palabras\obj\Debug\Clase3.Palabras.pdb
+C:\Users\Temporal2\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\Clase3.Palabras\bin\Debug\Clase3.Palabras.exe
+C:\Users\Temporal2\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\Clase3.Palabras\bin\Debug\Clase3.Palabras.pdb
+C:\Users\Temporal2\Documents\GitHub\pcyp.villca.debora.2021\ConsoleApplication1\Clase3.Palabras\obj\Debug\Clase3.Palabras.csprojResolveAssemblyReference.cache
