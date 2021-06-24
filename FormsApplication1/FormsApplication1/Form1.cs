@@ -24,7 +24,7 @@ namespace FormsApplication1
         
             Task<string> t0 = Task<string>.Factory.StartNew(() =>
             {
-                int suma = valor1 + valor2;
+                int suma=0;
                 Thread.SpinWait(int.MaxValue);
                 textBox1.Text = suma.ToString();
                 Thread.SpinWait(int.MaxValue);
