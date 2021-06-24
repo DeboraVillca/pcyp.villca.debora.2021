@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
+
 namespace Clase9.WaitAllOneByOne
 {
     class Program
@@ -22,6 +23,8 @@ namespace Clase9.WaitAllOneByOne
                 int sumaT = (int)arg + 10;
                 return sumaT;
             }, suma);
+
+
             Task t2 = Task.Factory.StartNew((arg) => {
                 Thread.Sleep(1000);
                 Thread.Sleep(1000);
@@ -32,11 +35,12 @@ namespace Clase9.WaitAllOneByOne
             int cantidadTareas = 2;
             Task[] tasks = new Task[] { t1, t2 };
             int indice;
+
             while (cantidadTareas > 0)
             {
                 indice = Task.WaitAny(tasks);
                 cantidadTareas--;
-                suma += tasks[indice].Result;
+                suma += tasks[indice].result;
             }
 
             sw.Stop();
